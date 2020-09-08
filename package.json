@@ -1,0 +1,23 @@
+{
+  "name": "random-jam",
+  "version": "1.0.0",
+  "description": "tool for random tasks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice8scream/RandomJam.git"
+  },
+  "author": "ice8scream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice8scream/RandomJam/issues"
+  },
+  "homepage": "https://github.com/ice8scream/RandomJam#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
