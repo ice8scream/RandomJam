@@ -39,6 +39,12 @@ let special = [
     "и ты не можешь сделать это в одиночку",
     "без текста вовсе",
     "и можно пройти одной рукой",
+    "Game must be wildly different after the second playgrough",
+    "Sounds are core mechanic",
+    "The title must be a pun",
+    "All ui must be diagetic",
+    "Game must incorperate procedural generation",
+    "Running out of power",
     "",
 ];
 
